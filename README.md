@@ -1,7 +1,7 @@
 ## Fala dev, sou Jack, programador Front-end mas desenrolo o Back-end.
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="250em"src="https://github-readme-stats.vercel.app/api?username=Jackson&show_icons=true&theme=merko&custom_title=Jackson+Dias"/>
+  <img height="250em"src="https://github-readme-stats.vercel.app/api?username=Jackson&show_icons=true&theme=cobalt&custom_title=Jackson+Dias"/>
 </div><br>
 <h2>Linguagens</h2>
 <div style="display: inline_block"><br>

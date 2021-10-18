@@ -1,7 +1,7 @@
 ## Fala ai, eu sou a Jackson Dias, programador Front-end
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="200em" width="250em" src="https://github-readme-stats.vercel.app/api?username=Jackson&show_icons=true&theme=radical&custom_title=Jackson+Dias"/>
+  <img height="250em"src="https://github-readme-stats.vercel.app/api?username=Jackson&show_icons=true&theme=radical&custom_title=Jackson+Dias"/>
 </div><br>
 <h2>Linguagens</h2>
 <div style="display: inline_block"><br>

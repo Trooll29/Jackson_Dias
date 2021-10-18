@@ -1,4 +1,4 @@
-## Fala ai, eu sou a Jackson Dias, programador Front-end
+## Fala ai dev, eu sou Jack, programador Front-end
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="250em"src="https://github-readme-stats.vercel.app/api?username=Jackson&show_icons=true&theme=radical&custom_title=Jackson+Dias"/>
